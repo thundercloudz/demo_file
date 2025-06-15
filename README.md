@@ -1,2 +1,8 @@
-# demo_file
-Testing repository #01: This is my first repo! 
+# Demo file
+Test repository #01: This is my first repo!
+The following descirbes how awesome I am:
+- I really don't have anything to list
+- maybe about my plans
+- I love to design processors
+- and think 
+- about a lot of stuff
